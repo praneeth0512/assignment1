@@ -12,3 +12,4 @@ By using dashbourd,i created a new repository
 
 # 5. Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey?
 I like the ways you teach cloud technologies and interact with all students. I am grateful to have you as a tutor.
+
